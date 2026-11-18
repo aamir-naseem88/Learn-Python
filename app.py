@@ -18,6 +18,12 @@
 # print(user_name)
 # print(type(user_name))
 
+"""
+===========================================================================================
+CHAPTER NO. 2: VARIABLES, CONSTANTS, INPUT AND OUTPUT 
+===========================================================================================
+"""
+
 # variables
 # it is a named container for saving value in the programe
 
@@ -65,4 +71,11 @@
 # user_name = "Naila"
 
 # print("My name is " + user_name + "and my age is: " + age)
+
+"""
+===========================================================================================
+CHAPTER NO. 3: DATA TYPES AND TYPE CONVERSION (TYPE CASTING) 
+===========================================================================================
+"""
+
 
